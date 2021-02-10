@@ -1,4 +1,4 @@
-# Hack-Installer
+# Hack-Installer_Termux
 Хакерский установщик, который за вас установит нужные утилиты для хакинга (В данном скрипте еще не все хакерские утилиты, будут добавляться) 
 1. apt update -y && apt upgrade
 2. pkg install git
